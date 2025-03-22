@@ -27,7 +27,7 @@ index,Shiprocket_Performance,Unnamed: 1,INCREFF_Performance
 25,,"i.            Product, Vendor and Customer Master Data is created in Maven before the rollout according to the data provided by the client",
 26,,ii.             Above procedure considers common B2C or D2C businesses,
 27,,iii.             Storage for Packing material is charged separately if provided by the client. The scrap generated from the goods is for the warehouse.,
-28,© EXCLUSIONS,,
+28,(C) EXCLUSIONS,,
 29,,i.                     tax registrations for the Client and any structural changes to comply with tax requirements,
 30,,ii.                    coordinate with vendors of the client,
 31,,iii.                  provision of packaging material and consumables,
